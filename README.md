@@ -4,8 +4,8 @@ sistema modular de inteligencia artificial incrustado en un bote de basura intel
 ## Configuración
 ```bash
   sudo pip install virtualenv
-  virtualenv clasificador-mascota
-  cd clasificador-mascota
+  virtualenv <path>
+  cd <path>
   source bin/activate
   pip install -r requirements.txt
 ```
