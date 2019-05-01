@@ -1,0 +1,1 @@
+python src/retrain.py --bottleneck_dir=src/bottlenecks --how_many_training_steps 500 --model_dir=src/inception --output_graph=src/retrained_graph.pb --output_labels=src/retrained_labels.txt --image_dir src/conocimiento
